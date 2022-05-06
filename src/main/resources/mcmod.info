@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scaleditems",
+  "name": "Scaled Items",
+  "description": "Allows you to scale held items",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reclqtch"],
+  "credits": "Reclqtch",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
